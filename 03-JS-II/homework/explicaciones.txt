@@ -1,0 +1,5 @@
+For es una expresion donde se va evaluando si la variable de iteracion cumple los requisitos y de ser asi ejecuta
+el bloque de codigo que se encuentra dentro de este bucle
+&& es un operador logico el cual exige que para que el resultado sea cierto se deben cumplir si o si todas las condiciones
+|| es un operador logico el cual para que una condicion se cierta solo es necesario que se cumpla alguna de las condiciones
+! es un operador logico que sirve para evaluar la negacion de una expresion 
