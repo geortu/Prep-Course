@@ -69,8 +69,8 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
     
 }
 #elementoUno{
-align-self: flex-start;
-
+   align-self: flex-start;
+  
 }
 #elementoDos{
     align-self: flex-end;
@@ -82,5 +82,5 @@ align-self: flex-start;
 
 }
 #elementoCuatro{
-   align-self: flex-end;
+    align-self: flex-end;
 }
